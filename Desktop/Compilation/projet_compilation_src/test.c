@@ -1,0 +1,6 @@
+void main() {
+    int x;
+    { int x; x = 1; }
+    x = 2;
+  }
+  
